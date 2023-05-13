@@ -1,9 +1,8 @@
-### Hi there 👋
+![Header](./your-header-image-name.png)
 <!--
 **abgox/abgox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<h2 align="left">I'm @abgox</h2>
 <h4 align="left">I'm interested in code and use it to make my life easier</h4>
 
 - 🔭 I'm in college now
