@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20!%20I'm%20@abgox%20🤠%20&text2=%20Easing%20my%20life%20by%20code&width=900&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20!%20I'm%20@abgox%20🤠%20&text2=%20Easing%20my%20life%20by%20code&width=900&height=220)
 
 - 🔭 I'm in college now
 
