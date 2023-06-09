@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20!%20I'm%20@abgox%20🤠%20&text2=%20Easing%20my%20life%20by%20coding&width=900&height=220)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20!%20I'm%20@abgox%20🤠%20&text2=%20Easing%20life%20by%20coding&width=900&height=215)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abgox&label=Profile%20views&color=0e75b6&style=flat" alt="abgox" /> </p>
 
