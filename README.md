@@ -4,12 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&vCenter=true&width=435&height=20&lines=Easing+life+by+coding!)](https://github.com/abgox)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 
-![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
- 
- <p><a href=https://nodejs.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://reactjs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.typescriptlang.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://vuejs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://vuepress.vuejs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg alt="android" width="40" height="40"/> </a> </p>
+[![AutoHotkey](https://img.shields.io/badge/AHK-black?style=for-the-badge&logo=autohotkey&logoColor=448e3a)](https://www.autohotkey.com)
+[![Powershell](https://img.shields.io/badge/PS-black?style=for-the-badge&logo=powershell)](https://learn.microsoft.com/powershell)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
+[![Vue.js](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue.js)](https://vuejs.org)
+
+[![js](https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/docs/learn/JavaScript)
+[![ts](https://img.shields.io/badge/ts-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
+[![node.js](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node.js)](https://nodejs.org)
+[![Vue.js](https://img.shields.io/badge/vuepress-black?style=for-the-badge&logo=vue.js)](https://vuepress.vuejs.org)
 
 <details>
 <p align="center">
@@ -27,5 +32,3 @@
   </a> -->
 </p>
 </details>
-
-
