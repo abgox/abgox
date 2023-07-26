@@ -2,13 +2,12 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abgox&label=Profile%20views&color=0e75b6&style=flat" alt="abgox" /> </p> -->
 
-
-<h3 align="left"><a href="https://github.com/abgox"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&vCenter=true&width=435&height=20&lines=Easing+life+by+coding!" alt="Languages and Tools:" /></a></h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&vCenter=true&width=435&height=20&lines=Easing+life+by+coding!)](https://github.com/abgox)
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/abgox)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/abgox)
+![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
  
  <p><a href=https://nodejs.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://reactjs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://www.typescriptlang.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://vuejs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg alt="android" width="40" height="40"/> </a> <a href=https://vuepress.vuejs.org/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg alt="android" width="40" height="40"/> </a> </p>
 
