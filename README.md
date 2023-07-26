@@ -1,10 +1,9 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20!%20I'm%20@abgox%20🤠%20&text2=%20Easing%20life%20by%20coding&width=900&height=215)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20!%20I'm%20@abgo(x)%20🤠%20&text2=%20Adventure%20begins%20,%20it's%20time%20to%20go%20!&width=900&height=215)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abgox&label=Profile%20views&color=0e75b6&style=flat" alt="abgox" /> </p> -->
 
-- 🔭 I'm in college now
 
-- 👩🏽‍💻 currently learning vue, AutoHotkey, shell
+<h3 align="left"><a href="https://github.com/abgox"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&vCenter=true&width=435&height=20&lines=Easing+life+by+coding!" alt="Languages and Tools:" /></a></h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
