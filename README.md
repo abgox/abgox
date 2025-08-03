@@ -1,12 +1,14 @@
 ![SVG Banners](https://abgop.netlify.app/abgox/banner_github.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&vCenter=true&width=435&height=20&lines=Easing+life+by+coding!)](https://github.com/abgox)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&vCenter=true&width=435&height=20&lines=Easing+life+by+coding!)](https://github.com/abgox) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://abgox.github.io/abgox/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://abgox.github.io/abgox/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://abgox.github.io/abgox/github-contribution-grid-snake.svg">
 </picture>
+
+![abgox-trophy](https://github-profile-trophy.vercel.app/?username=abgox&theme=onedark&row=1&column=5)
 
 <h3 align="left">Languages and Tools :</h3>
 
