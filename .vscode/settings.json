@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "filename-lint.enabled": true,
+  "filename-lint.includePatterns": [
+    "**/.vscode/**",
+    "**/.github/workflows/**",
+    "**/.github/ISSUE_TEMPLATE/**/*",
+    "src/**",
+    "*"
+  ],
+  "filename-lint.excludePatterns": ["readme.*.md", "changelog.*.md"]
+}
