@@ -1,4 +1,4 @@
-![Github Banner](https://abgox.pages.dev/github-banner.svg)
+![Github Banner](https://abgox.com/github-banner.svg)
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&vCenter=true&width=435&height=20&lines=Easing+life+by+coding!)](https://github.com/abgox) -->
 
@@ -8,7 +8,7 @@
   <img alt="github contribution grid snake animation" src="https://abgox.github.io/abgox/github-contribution-grid-snake.svg">
 </picture>
 
-![abgox-trophy](https://github-profile-trophy.vercel.app/?username=abgox&theme=onedark&row=1&column=5)
+![abgox-trophy](https://abgox.com/github-trophy.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 
