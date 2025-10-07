@@ -49,21 +49,6 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://abgox.com/github-streak-stats-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://abgox.com/github-streak-stats.svg"
-    />
-    <img
-      src="https://abgox.com/github-streak-stats.svg"
-      alt="Github Streak Stats"
-    />
-  </picture>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
       srcset="https://abgox.com/github-profile-summary-dark.svg"
     />
     <source
@@ -88,6 +73,23 @@
     <img
       src="https://abgox.com/github-top-langs.svg"
       alt="Most Used Language on Github"
+    />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://abgox.com/github-streak-stats-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://abgox.com/github-streak-stats.svg"
+    />
+    <img
+      src="https://abgox.com/github-streak-stats.svg"
+      alt="Github Streak Stats"
     />
   </picture>
 </div>
