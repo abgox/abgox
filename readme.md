@@ -13,22 +13,9 @@
       alt="Github Banner"
     />
   </picture>
+</div>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://abgox.com/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://abgox.com/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://abgox.com/github-contribution-grid-snake.svg"
-      alt="Github Contribution Grid Snake Animation"
-    />
-  </picture>
-
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -46,6 +33,23 @@
 </div>
 
 <div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://abgox.com/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://abgox.com/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://abgox.com/github-contribution-grid-snake.svg"
+      alt="Github Contribution Grid Snake Animation"
+    />
+  </picture>
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
